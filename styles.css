@@ -1,0 +1,39 @@
+div {
+    margin: 20px;
+}
+.header {
+    display: flex;
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png");
+    font-family: 'Gaegu';
+    font-size: 30px;
+    flex-direction: column;
+    text-align: center;
+    color: white;
+}
+button {
+    font-size: 20px;
+}
+.donate {
+    
+    font-family: 'Gaegu';
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-align: center;
+    font-size: 25px;
+    background-color: blue;
+}
+.pics {
+    display: flex;
+    flex-direction: row;
+}
+.promises {
+    display: flex;
+    font-family: 'Gaegu';
+    background-color: blue;
+    border: 5px solid yellow;
+}
+img{
+    margin:5px;
+    width: 30%;
+}
